@@ -25,3 +25,14 @@
     .jumbotron .lang-logo img {
       max-width: 100%; }
 
+body {
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
